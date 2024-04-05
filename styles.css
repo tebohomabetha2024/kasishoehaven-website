@@ -1,0 +1,44 @@
+<style>
+    /* CSS styles for article */
+    article{
+    	padding: 20px;
+    	margin: 20px auto;
+    	max-width: 800px;
+    	font-family: Arial, sans-serif;
+    	line-height: 1.6;
+    }
+    /* CSS styles for header */
+    header { 
+        background-color: lightcyan;
+        color: #skyblues;
+        padding: 20px;
+        text-align: center;
+    }
+
+    /* CSS styles for paragraphs */
+    p {
+ 	 font-size: 16px;
+ 	 line-height: 1.6;
+ 	 color: #444;
+ 	 text-align: justify;
+    }
+    /* CSS styles for images */
+    img {
+	 max-width: 100%;
+	 height: auto;
+	 margin-bottom: 20px;
+	 align-content: center;
+}
+   /* CSS styles for footer */
+   footer {
+   	 background-color: lightcyan;
+   	 color: #fff;
+   	 padding: 20px;
+   	 text-align: center;
+   }
+   body {
+   	background-color:lightpink;
+   }
+
+
+</style>  	
